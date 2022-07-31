@@ -1,5 +1,5 @@
 # MusicRecommender
-# You enter an album name, you receive album recommendations
+## You enter an album name, you receive album recommendations
 
 You should run the code by this order:
   1. SQLiteLoading.ipynb - this will load the SQLite data into pandas dataframes (and some more things that will be explained in the file)
