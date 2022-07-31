@@ -6,5 +6,5 @@ You should run the code by this order:
   2. MusicRecommender - here you will look for new recommended albums.
 everything else should be written inside the files.
 
-# take note
+## take note
 in order to use this code, you have to know how python variables work and its syntax.
